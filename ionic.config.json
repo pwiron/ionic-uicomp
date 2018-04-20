@@ -1,6 +1,8 @@
 {
   "name": "ionic-uicomp",
-  "app_id": "56f502e0",
+  "app_id": "b6d495ad",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
